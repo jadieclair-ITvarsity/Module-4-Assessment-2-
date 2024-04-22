@@ -78,3 +78,58 @@ body {
   left: 400px;
   top: 400px;
 }
+
+/* Images  */
+
+.images > * {
+  position: absolute;
+  transform: scale(0.8);
+}
+
+#img3-2-draggable {
+  position: absolute;
+  right: 20%;
+  top: 50%;
+}
+
+#img2-2-draggable {
+  right: 15%;
+  top: 45%;
+}
+
+#img3-3-draggable {
+  position: absolute;
+  right: 10%;
+  top: 40%;
+}
+
+#img3-1-draggable {
+  position: absolute;
+  right: 30%;
+  top: 30%;
+}
+
+#img1-1-draggable {
+  right: 25%;
+  top: 35%;
+}
+
+#img2-3-draggable {
+  right: 20%;
+  top: 40%;
+}
+
+#img2-1-draggable {
+  right: 35%;
+  top: 25%;
+}
+
+#img1-2-draggable {
+  right: 30%;
+  top: 20%;
+}
+
+#img1-3-draggable {
+  right: 25%;
+  top: 15%;
+}
